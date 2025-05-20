@@ -9,6 +9,8 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 안녕하시렵니까
 
-jira git 연동 테스트 목적으로 적성하였습니다
+jira git 연동 테스트 목적으로 작성하였습니다
+
+jira git branch 테스트 목적으로 작성하였습니다.
 
 육세현 올림
